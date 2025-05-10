@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 420bce42b1a2aad02a7924bb900ef41b, type: 3}
+  m_Name: Laptop
+  m_EditorClassIdentifier: 
+  itemName: Laptop
+  description: this is a laptop! crazy
+  model: {fileID: 8400000, guid: 23db6e114c7a36c7ebbd8dd00ba11da7, type: 2}
