@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89bdb5c29a7308d779fd7c03f95a2c15, type: 3}
+  m_Name: Power Supply
+  m_EditorClassIdentifier: 
+  itemName: Power Supply
+  description: "Welcome, traveler... You stand before the mighty Power Supply of
+    Eternal Voltage \n\nWith the power to deliver stable, adjustable voltage and
+    current, this relic fuels your circuits with precision. Whether you need 3.3V
+    for your microcontroller or 12V to awaken the beast a.k.a. your motor, it answers
+    your call. But tread carefully too much current, and even the bravest resistor
+    may fall in battle. \n \nUse the knobs wisely, and may your outputs forever remain...
+    regulated. "
+  model: {fileID: 0}

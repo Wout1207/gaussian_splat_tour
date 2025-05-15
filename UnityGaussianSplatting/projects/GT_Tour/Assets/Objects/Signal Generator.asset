@@ -12,6 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89bdb5c29a7308d779fd7c03f95a2c15, type: 3}
   m_Name: Signal Generator
   m_EditorClassIdentifier: 
-  itemName: 
-  description: 
+  itemName: Function Generator
+  description: "Greetings, young engineer! You have unlocked... the Function Generator
+    of Many Waves! \n\nThis arcane device conjures sine, square, triangle, and more
+    signals to test the very soul of your circuits. Need a clock source? A test signal?
+    A chance to nod confidently when someone mentions signal integrity? It\u2019s
+    got you covered. Just dial in the frequency, amplitude, and waveform, then launch
+    your signal into the great unknown. \n \nRemember: if it looks like a clean sine
+    wave and no smoke comes out, you're probably doing it right. "
   model: {fileID: 0}
