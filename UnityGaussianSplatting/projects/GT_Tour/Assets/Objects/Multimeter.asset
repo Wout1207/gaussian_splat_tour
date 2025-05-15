@@ -12,6 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89bdb5c29a7308d779fd7c03f95a2c15, type: 3}
   m_Name: Multimeter
   m_EditorClassIdentifier: 
-  itemName: 
-  description: 
+  itemName: Multimeter
+  description: "Ah! You seek knowledge, yes? Then behold... the sacred Multimeter!
+    \n\nThis trusty sidekick is your go-to for measuring voltage, current, and resistance
+    basically, the Swiss Army knife of electronics. Need to check if a battery's
+    alive or if a resistor\u2019s lying about its value? The multimeter\u2019s got
+    your back. It won\u2019t judge your circuit-building skills\u2026 but it will
+    beep at you if you mess up the connections. Just set the right mode, plug in
+    the probes, and pretend you know exactly what you're doing works every time. "
   model: {fileID: 0}

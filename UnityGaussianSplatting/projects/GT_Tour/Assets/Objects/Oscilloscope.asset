@@ -12,6 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89bdb5c29a7308d779fd7c03f95a2c15, type: 3}
   m_Name: Oscilloscope
   m_EditorClassIdentifier: 
-  itemName: 
-  description: 
+  itemName: Oscilloscope
+  description: "A wild Oscilloscope appears! \n \nDon\u2019t worry it\u2019s friendly,
+    and it\u2019s here to help you see what your circuits are up to. This tool displays
+    voltage over time, letting you observe waveforms, measure frequency, and spot
+    weird glitches faster than your professor catching late submissions. Connect
+    the probe to a signal, and boom you\u2019re reading real-time electrical behavior
+    like a voltage detective.  \n\nJust remember: every knob has a purpose\u2026
+    probably. Twist responsibly. "
   model: {fileID: 0}
