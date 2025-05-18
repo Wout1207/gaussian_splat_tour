@@ -20,4 +20,4 @@ MonoBehaviour:
     the probe to a signal, and boom you\u2019re reading real-time electrical behavior
     like a voltage detective.  \n\nJust remember: every knob has a purpose\u2026
     probably. Twist responsibly. "
-  model: {fileID: 0}
+  model: {fileID: 8400000, guid: fddc1021d053ea019a5c57f27c9b4ae6, type: 2}
