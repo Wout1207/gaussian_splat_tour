@@ -8,10 +8,13 @@ public class Door : MonoBehaviour
     public GameObject otherRoom;
     //public Light _light;
 
-    public void renderRoom()
+    public void renderRoom(Transform playerTransform)
     {
         otherRoom.SetActive(true);
-        this.gameObject.SetActive(false);
+        Transform spawnLocation = otherRoom.transform.Find("SpawnLocation");
+        playerTransform.position = new Vector3(spawnLocation.position.x, playerTransform.position.y, spawnLocation.position.z);
+        playerTransform.Rotate(0,180,0);
+        transform.parent.gameObject.SetActive(false);
     }
 
 /*    private void Update()

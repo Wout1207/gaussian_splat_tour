@@ -6,16 +6,11 @@ using UnityEngine;
 public class DoorInteraction : MonoBehaviour
 {
     public Camera cameraView;
-    public float interactRange = 4f;
+    public float interactRange = 10f;
     public GameObject UI;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
         if(Input.GetMouseButtonDown(0))
         {
@@ -31,7 +26,7 @@ public class DoorInteraction : MonoBehaviour
                     UI.GetComponent<PopUpController>().showInfoScreen(item.GetComponent<Item>().itemData);
                 }
                 else if(item.tag == "Door"){
-                    item.GetComponent<Door>().renderRoom();
+                    item.GetComponent<Door>().renderRoom(this.transform);
                 }
                 }
             }
