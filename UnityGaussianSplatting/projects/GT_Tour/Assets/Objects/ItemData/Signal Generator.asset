@@ -20,4 +20,4 @@ MonoBehaviour:
     got you covered. Just dial in the frequency, amplitude, and waveform, then launch
     your signal into the great unknown. \n \nRemember: if it looks like a clean sine
     wave and no smoke comes out, you're probably doing it right. "
-  model: {fileID: 0}
+  model: {fileID: 8400000, guid: 8caeef93fc3d12b3e940d1c8597a0942, type: 2}
