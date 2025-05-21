@@ -473,6 +473,11 @@ MonoBehaviour:
   m_AreaLightEmissiveMeshShadowCastingMode: 0
   m_AreaLightEmissiveMeshMotionVectorGenerationMode: 0
   m_AreaLightEmissiveMeshLayer: -1
+--- !u!1 &459055270 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1892430075547021960, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
+  m_PrefabInstance: {fileID: 2080135816}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &474245657
 GameObject:
   m_ObjectHideFlags: 0
@@ -546,71 +551,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5737493726280710509, guid: 797a9185149e711858b5f518e370c5ff, type: 3}
   m_PrefabInstance: {fileID: 924512211}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &577424947
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 987780302179387841, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: m_LocalScale.z
-      value: -1
-      objectReference: {fileID: 0}
-    - target: {fileID: 987780302179387841, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.5630894
-      objectReference: {fileID: 0}
-    - target: {fileID: 987780302179387841, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.80545187
-      objectReference: {fileID: 0}
-    - target: {fileID: 987780302179387841, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.2470099
-      objectReference: {fileID: 0}
-    - target: {fileID: 987780302179387841, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.0011412733
-      objectReference: {fileID: 0}
-    - target: {fileID: 987780302179387841, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.99662393
-      objectReference: {fileID: 0}
-    - target: {fileID: 987780302179387841, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.07572691
-      objectReference: {fileID: 0}
-    - target: {fileID: 987780302179387841, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.031699568
-      objectReference: {fileID: 0}
-    - target: {fileID: 987780302179387841, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 179.855
-      objectReference: {fileID: 0}
-    - target: {fileID: 987780302179387841, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 3.6329956
-      objectReference: {fileID: 0}
-    - target: {fileID: 987780302179387841, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: -8.686005
-      objectReference: {fileID: 0}
-    - target: {fileID: 5348320402107478929, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: m_Name
-      value: Gael
-      objectReference: {fileID: 0}
-    - target: {fileID: 8774085458302316691, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
-      propertyPath: render
-      value: 
-      objectReference: {fileID: 871418671}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: e2cb8f742057c503d9b722ee72d4a2dc, type: 3}
 --- !u!1 &655364827 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 582545136620037678, guid: 44e1e1746da001608b3483919dca346a, type: 3}
@@ -945,7 +885,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4459864850019384740, guid: 6bacecc4f3df9584198879c73a6b6c36, type: 3}
       propertyPath: mouseSensitivity
-      value: 4
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4459864850019384750, guid: 6bacecc4f3df9584198879c73a6b6c36, type: 3}
       propertyPath: m_Name
@@ -1332,11 +1272,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5491427475560516107, guid: 6c4297a2fbfccadad85a0bfa3e5c0d2e, type: 3}
   m_PrefabInstance: {fileID: 1720793398}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1736102687 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8901797610096270822, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
-  m_PrefabInstance: {fileID: 2080135816}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1924949810
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1478,6 +1413,22 @@ PrefabInstance:
       propertyPath: otherRoom
       value: 
       objectReference: {fileID: 391822198}
+    - target: {fileID: 424895061113160245, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1225561772756595016, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628814762147904245, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
+      propertyPath: otherRoom
+      value: 
+      objectReference: {fileID: 391822198}
+    - target: {fileID: 1892430075547021960, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3110665012381004794, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
       propertyPath: m_LocalScale.x
       value: 3
@@ -1546,6 +1497,14 @@ PrefabInstance:
       propertyPath: m_Center.y
       value: 0.59
       objectReference: {fileID: 0}
+    - target: {fileID: 4628322885617903966, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5151782040373596243, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 5660467839324206314, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.448
@@ -1590,13 +1549,25 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Door
       objectReference: {fileID: 0}
+    - target: {fileID: 5818163568133445246, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6731534830755984078, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6864437441754608204, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
+      propertyPath: render
+      value: 
+      objectReference: {fileID: 871418671}
     - target: {fileID: 8901797610096270822, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
       propertyPath: m_Name
       value: GaelRoom
       objectReference: {fileID: 0}
     - target: {fileID: 8901797610096270822, guid: 04536e39f0ac47f4bb27cc31ccf84c5d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -1676,7 +1647,7 @@ PrefabInstance:
     - target: {fileID: 510875775727358098, guid: 7306bfde3b4ccb64e80fe8fe1672bffb, type: 3}
       propertyPath: otherRoom
       value: 
-      objectReference: {fileID: 1736102687}
+      objectReference: {fileID: 459055270}
     - target: {fileID: 807075780586707334, guid: 7306bfde3b4ccb64e80fe8fe1672bffb, type: 3}
       propertyPath: render
       value: 
@@ -1732,6 +1703,10 @@ PrefabInstance:
     - target: {fileID: 8038952679453907439, guid: 7306bfde3b4ccb64e80fe8fe1672bffb, type: 3}
       propertyPath: m_Name
       value: 10.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 8038952679453907439, guid: 7306bfde3b4ccb64e80fe8fe1672bffb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8528550690082056499, guid: 7306bfde3b4ccb64e80fe8fe1672bffb, type: 3}
       propertyPath: render
@@ -1949,7 +1924,6 @@ SceneRoots:
   - {fileID: 2973378068067229727}
   - {fileID: 1150401422}
   - {fileID: 2080135816}
-  - {fileID: 577424947}
   - {fileID: 2638401251109030519}
   - {fileID: 924512211}
   - {fileID: 1720793398}

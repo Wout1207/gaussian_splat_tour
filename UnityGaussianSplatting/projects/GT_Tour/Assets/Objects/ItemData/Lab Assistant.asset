@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 89bdb5c29a7308d779fd7c03f95a2c15, type: 3}
-  m_Name: Lab Assistent
+  m_Name: Lab Assistant
   m_EditorClassIdentifier: 
   itemName: Lab Assistant
   description: "A confident figure steps forward... It\u2019s Ga\xEBl, the Lab Whisperer!
