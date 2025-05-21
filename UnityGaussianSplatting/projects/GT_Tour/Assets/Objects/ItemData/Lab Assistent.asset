@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89bdb5c29a7308d779fd7c03f95a2c15, type: 3}
   m_Name: Lab Assistent
   m_EditorClassIdentifier: 
-  itemName: Lab Assistent
+  itemName: Lab Assistant
   description: "A confident figure steps forward... It\u2019s Ga\xEBl, the Lab Whisperer!
     \n \nRumored to have debugged a circuit with a single glance, Ga\xEBl guides
     students through tangled wires and tangled thoughts alike. Need help with the

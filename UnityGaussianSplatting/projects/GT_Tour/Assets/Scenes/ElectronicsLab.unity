@@ -1761,46 +1761,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1550749980563906782, guid: 10a3dfb839c87597789e2ef2ff7cac8e, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 1968
-      objectReference: {fileID: 0}
-    - target: {fileID: 1824903332367057236, guid: 10a3dfb839c87597789e2ef2ff7cac8e, type: 3}
-      propertyPath: m_margin.x
-      value: 151.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1824903332367057236, guid: 10a3dfb839c87597789e2ef2ff7cac8e, type: 3}
-      propertyPath: m_margin.z
-      value: -2561.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 3624824817823708609, guid: 10a3dfb839c87597789e2ef2ff7cac8e, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4233607301921958440, guid: 10a3dfb839c87597789e2ef2ff7cac8e, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 199.333
-      objectReference: {fileID: 0}
-    - target: {fileID: 4233607301921958440, guid: 10a3dfb839c87597789e2ef2ff7cac8e, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 159.04
-      objectReference: {fileID: 0}
-    - target: {fileID: 4233607301921958440, guid: 10a3dfb839c87597789e2ef2ff7cac8e, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -1419.77
-      objectReference: {fileID: 0}
-    - target: {fileID: 4233607301921958440, guid: 10a3dfb839c87597789e2ef2ff7cac8e, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -98.219
-      objectReference: {fileID: 0}
     - target: {fileID: 4349981204849414495, guid: 10a3dfb839c87597789e2ef2ff7cac8e, type: 3}
       propertyPath: firstPersonController
       value: 
       objectReference: {fileID: 1473396568}
-    - target: {fileID: 4844918506912043620, guid: 10a3dfb839c87597789e2ef2ff7cac8e, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 1042
-      objectReference: {fileID: 0}
     - target: {fileID: 5210314762701397816, guid: 10a3dfb839c87597789e2ef2ff7cac8e, type: 3}
       propertyPath: m_Camera
       value: 
