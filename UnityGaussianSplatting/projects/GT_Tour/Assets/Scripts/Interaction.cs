@@ -24,6 +24,7 @@ public class DoorInteraction : MonoBehaviour
                 
                 if(item.tag == "Item"){
                     UI.GetComponent<PopUpController>().showInfoScreen(item.GetComponent<Item>().itemData);
+                    item.GetComponent<Item>().render.SetActive(true);
                 }
                 else if(item.tag == "Door"){
                     item.GetComponent<Door>().renderRoom(this.transform);
