@@ -20,4 +20,4 @@ MonoBehaviour:
     your call. But tread carefully too much current, and even the bravest resistor
     may fall in battle. \n \nUse the knobs wisely, and may your outputs forever remain...
     regulated. "
-  model: {fileID: 0}
+  model: {fileID: 8400000, guid: 18ac5dbe2bef1dd2791d5679be47083b, type: 2}
